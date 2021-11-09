@@ -1,4 +1,4 @@
-package com.example.flutter_app_fastcall
+package com.sau.fastcall.bc
 
 import io.flutter.embedding.android.FlutterActivity
 
